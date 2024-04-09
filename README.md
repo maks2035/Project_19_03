@@ -8,4 +8,4 @@
 
 ![Снимок экрана (51)](https://github.com/maks2035/Project_19_03/assets/79210414/efaead5b-414c-4563-993c-62e6b9717bb1)
 
-![Снимок экрана (52)](https://github.com/maks2035/Project_19_03/assets/79210414/14278c95-253f-4f87-a3a9-5a28acccb47d)
+![Снимок экрана (64)](https://github.com/maks2035/Project_19_03/assets/79210414/d5355dcd-f07b-48af-b330-a1616491848c)
