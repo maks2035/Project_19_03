@@ -62,7 +62,7 @@ int main()
 
    cv::Mat result = image.clone();
    for (size_t i = 0; i < contours_gray.size(); i++) {
-      double epsilon = 0.001 * arcLength(contours_gray[i], true);
+      double epsilon = 0.015 * arcLength(contours_gray[i], true);
       std::vector<cv::Point> approx;
       approxPolyDP(contours_gray[i], approx, epsilon, true);
 
